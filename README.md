@@ -13,4 +13,5 @@
 
 ## Reference
 
+* https://nikuyoshi.hatenablog.com/entry/2021/12/22/233748 - my blog entry in Japanese
 * https://cdkworkshop.com/
